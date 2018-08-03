@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercises.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercise/Exercises-probability.iml" filepath="$PROJECT_DIR$/.idea/modules/exercise/Exercises-probability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/probability/Exercises-probability~1.iml" filepath="$PROJECT_DIR$/.idea/modules/probability/Exercises-probability~1.iml" group="probability" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercises_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercises_main.iml" group="Exercises" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercises_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercises_test.iml" group="Exercises" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Programowanie-Exercises.iml" filepath="$PROJECT_DIR$/.idea/modules/Programowanie-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Programowanie-Exercises_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Programowanie-Exercises_main.iml" group="Exercises" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Programowanie-Exercises_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Programowanie-Exercises_test.iml" group="Exercises" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bluewhale/bluewhale.iml" filepath="$PROJECT_DIR$/.idea/modules/bluewhale/bluewhale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercises/exercises.iml" filepath="$PROJECT_DIR$/.idea/modules/exercises/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/krill/krill.iml" filepath="$PROJECT_DIR$/.idea/modules/krill/krill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercises/probability/probability.iml" filepath="$PROJECT_DIR$/.idea/modules/exercises/probability/probability.iml" />
+    </modules>
+  </component>
+</project>
